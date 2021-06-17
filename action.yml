@@ -1,7 +1,7 @@
   
-name: 'Hello, World Test Action'
+name: 'Hello, World Test tryinh'
 description: 'Learning GitHub Actions'
-author: 'sumit ghosh'
+author: 'sumit_ghosh 121'
 inputs:
   src:
     description: 'None Required'
